@@ -1,0 +1,64 @@
+/* CSS Document */
+
+body
+{
+font-family:Arial, Helvetica, sans-serif;
+text-align:left;
+}
+
+.header
+{
+border-bottom:#959595 thin solid;
+margin-bottom:20px;
+text-align:center;
+padding-bottom:15px;
+}
+
+h1
+{
+margin:0px;
+font-size:40px;
+font-weight:bold;
+}
+h2
+{
+margin:0px;
+font-size:20px;
+font-weight:bold;
+}
+h3
+{
+margin:0px;
+font-size:16px;
+font-weight:bold;
+font-style:italic;
+}
+.data
+{
+width:1000px;
+min-height:50px;
+height:auto;
+overflow:hidden;
+border:#A0A0A4 thin solid;
+font-size:12px;
+}
+
+table
+{
+width:100%;
+}
+th
+{
+background-color:#808080;
+color:#FFFFFF;
+font-size:14px;
+font-weight:bolder;
+padding:4px;
+text-align:left;
+}
+td
+{
+border-bottom:#BABABA thin solid;
+padding:3px;
+text-align:left;
+}
